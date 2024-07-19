@@ -63,7 +63,7 @@ Outcome	Class variable (either 0 or 1). 268 of 768 values are 1, and the others 
 
 
  
- ### Week 3 : Data Modeling:
+### Week 3 : Data Modeling:
 
 1. Devise strategies for model building. It is important to decide the right validation framework. Express your thought process.
 
